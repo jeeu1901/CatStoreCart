@@ -3,10 +3,9 @@ $(document).ready(function() {
 
     start();
 
-    // Modalerna, boxarna som öppnas när man klickar på Bli medlam / logga in.
-let btn = document.getElementById("modal");
-let modals = document.getElementById("cart-box");
-let spans = document.getElementsByClassName("close");
+    let btn = document.getElementById("modal");
+    let modals = document.getElementById("cart-box");
+    let spans = document.getElementsByClassName("close");
 
 // När man klickar på någon av knapparna öppnas en av modalerna
     $(btn).click(function() {
