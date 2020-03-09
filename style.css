@@ -1,0 +1,181 @@
+/* #header-image {
+    width: 1000px;
+    max-height: 200px;
+} */
+
+#background-image {
+    /* max-width: 1920px;
+    max-height: 1020px; */
+    /* display: flex;
+    flex-wrap: wrap; */
+    width: 100%;
+}
+
+header {
+    background-color: white;
+    width: 100%;
+}
+
+body {
+
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* background: url("images/charlie-deets-TKgOIwPVmkg-unsplash.jpg") no-repeat; 
+    background-size: 100% 100%; 
+    background-attachment: fixed;
+    background-position: center; */
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f8f8;
+}
+
+main {
+    background-color: #EBEBEB;
+}
+
+/* meny */
+
+
+#menu-list {
+   display: flex;
+   justify-content: center;
+   list-style: none;
+   height: 40px;
+   margin: auto;
+   align-items: center;
+}
+
+#menu-item {
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+#menu-hidden {
+    margin-right: auto;
+    visibility: hidden;
+}
+
+#menu-list :last-child {
+    margin-left: auto;
+    font-size: larger;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: grey;
+}
+
+
+main {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid black;
+}
+
+#news-box, #about-box {
+    border: 1px solid black;
+    margin: 20px 20px;
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    border-top: 1px solid black;
+    background-image: url("images/nykatt.jpg");
+    width: 100%;
+    height: 400px;
+    background-size: 100% 100%;
+}
+
+
+/* shop items*/
+#shop-box {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+#shop-box div{
+    margin: 5% 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background-color: #ffffff;
+    border: 1px solid black;
+}
+
+#shop-box img {
+   width: 250px;
+   height: 250px;  
+}
+
+.product-image {
+    background-color: red;
+}
+
+.order-box {
+    color: blue;
+}
+
+.fa-minus-square{
+    margin-left: 15px;
+}
+
+.fa-plus-square {
+    margin-left: 5px;
+}
+
+input {
+  border: none;
+  text-align: center;
+  width: 32px;
+  font-size: 16px;
+  color: #43484D;
+  font-weight: 300;
+}
+
+/* Modal bakgrunden */
+#cart-box {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+
+/* Modal laddaren
+#cart-loader {
+    position: relative;
+    display: none;
+    left: 35%;
+    border: 16px solid #f3f3f3;
+    border-top: 16px solid #2f97ff;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    animation: spin 1.5s linear infinite;
+} */
+
+/* @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+} */
+/* Modal Content */
+#cart-main {
+    margin: 16px auto;
+    font-size: 20px;
+    background-color: #fefefe;
+    width: 400px;
+    animation-name: animatetop;
+    animation-duration: 1s;
+}

@@ -1,0 +1,65 @@
+{
+    "shopItems": [
+        {
+            "image": "https://i7.pngguru.com/preview/123/979/748/bengal-tiger-bengal-cat-toy-animal-figurine-tiger.jpg",
+            "product": "boll",
+            "price": "10kr",
+            "info": "funboll" 
+        },
+        {
+            "image": "https://banner2.kisspng.com/20180228/ykq/kisspng-plush-stuffed-toy-cat-the-bulk-of-the-pink-cat-toy-5a970db428a174.6659575715198488841664.jpg",
+            "product": "kalle",
+            "price": "25kr",
+            "info": "funkalle" 
+        },
+        {
+            "image": "https://www.pikpng.com/pngl/m/60-606983_flying-cat-png-flying-cat-no-background-clipart.png",
+            "product": "kalle",
+            "price": "25kr",
+            "info": "funkalle" 
+        },
+        {
+            "image": "https://p1.hiclipart.com/preview/866/689/295/friends-cartoon-cat-toy-kitten-child-infant-gift-cuteness-png-clipart.jpg",
+            "product": "kalle",
+            "price": "25kr",
+            "info": "funkalle" 
+        },
+        {
+            "image": "https://i7.pngguru.com/preview/78/48/885/cat-wedding-significant-other-doll-couple-wedding-couple-cute-cat-toy.jpg",
+            "product": "kalle",
+            "price": "25kr",
+            "info": "funkalle" 
+        },
+        {
+            "image": "https://i7.pngguru.com/preview/721/956/893/cat-litter-trays-kitten-pet-dog-products-step-thumbnail.jpg",
+            "product": "kalle",
+            "price": "25kr",
+            "info": "funkalle" 
+        },
+        {
+            "image": "https://p1.hiclipart.com/preview/305/693/147/cat-bib-whiskers-infant-clothing-siamese-cat-direct-to-garment-printing-clothing-accessories-png-clipart.jpg",
+            "product": "kalle",
+            "price": "25kr",
+            "info": "funkalle" 
+        },
+        {
+            "image": "https://p7.hiclipart.com/preview/141/325/266/cat-food-cat-litter-trays-dog-pet-cat-thumbnail.jpg",
+            "product": "kalle",
+            "price": "25kr",
+            "info": "funkalle" 
+        },
+        {
+            "image": "https://i7.pngguru.com/preview/973/665/103/brush-bristle-dog-cat-sunbeam-products-dog.jpg",
+            "product": "kalle",
+            "price": "25kr",
+            "info": "funkalle" 
+        },
+        {
+            "image": "https://p7.hiclipart.com/preview/898/177/205/cat-tree-scratching-post-sisal-pet-cat-thumbnail.jpg",
+            "product": "kalle",
+            "price": "25kr",
+            "info": "funkalle" 
+        }
+
+    ]
+}
